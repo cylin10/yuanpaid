@@ -1,0 +1,5 @@
+{
+  "name": "游戏礼包购物车",
+  "description": "一个用于计算游戏礼包购买总价、总积分和总抽数的购物车工具，支持导出为图片。",
+  "requestFramePermissions": []
+}
