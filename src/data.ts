@@ -181,7 +181,7 @@ export const packagesRu: Package[] = [
   { id: 27, name: "首充双倍1800", points: 1980, limit: 1, draws: 18, priceCny: 198, category: "其他", sortId: 50 },
   { id: 28, name: "首充双倍3000", points: 3280, limit: 1, draws: 30, priceCny: 328, category: "其他", sortId: 50 },
   { id: 29, name: "首充双倍6000", points: 6480, limit: 1, draws: 60, priceCny: 648, category: "其他", sortId: 50 },
-  { id: 30, name: "密探特训", points: 780, limit: 1, draws: 0, priceCny: 78, category: "超值", sortId: 50 },
+  { id: 30, name: "密探特训", points: 880, limit: 1, draws: 0, priceCny: 88, category: "超值", sortId: 50 },
   { id: 31, name: "地宫秘宝", points: 980, limit: 1, draws: 22, priceCny: 98, category: "超值", sortId: 40 },
   { id: 89, name: "善恶簿体验包", points: 60, limit: 2, draws: 0, priceCny: 6, category: "贤士", extra: "10 善恶簿", sortId: 31 },
   { id: 90, name: "善恶簿精选包", points: 120, limit: 2, draws: 0, priceCny: 12, category: "贤士", extra: "18 善恶簿", sortId: 31 },
@@ -190,7 +190,7 @@ export const packagesRu: Package[] = [
   { id: 93, name: "功过格体验包", points: 120, limit: 2, draws: 0, priceCny: 12, category: "贤士", extra: "10 功过格", sortId: 32 },
   { id: 94, name: "功过格精选包", points: 300, limit: 2, draws: 0, priceCny: 30, category: "贤士", extra: "18 功过格", sortId: 32 },
   { id: 95, name: "功过格高阶包", points: 680, limit: 2, draws: 0, priceCny: 68, category: "贤士", extra: "28 功过格", sortId: 32 },
-  { id: 96, name: "功过格丰盈包", points: 1580, limit: 5, draws: 0, priceCny: 1580, category: "贤士", extra: "50 功过格", sortId: 32 },
+  { id: 96, name: "功过格丰盈包", points: 1580, limit: 5, draws: 0, priceCny: 158, category: "贤士", extra: "50 功过格", sortId: 32 },
   { id: 98, name: "体力体验包", points: 60, limit: 2, draws: 0, priceCny: 6, category: "贤士", extra: "4 体力", sortId: 33 },
   { id: 99, name: "体力精选包", points: 180, limit: 2, draws: 0, priceCny: 18, category: "贤士", extra: "8 体力", sortId: 33 },
   { id: 100, name: "体力高阶包", points: 300, limit: 5, draws: 0, priceCny: 30, category: "贤士", extra: "11 体力", sortId: 33 }
